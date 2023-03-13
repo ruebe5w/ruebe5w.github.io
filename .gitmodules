@@ -1,0 +1,3 @@
+[submodule "Kolloquium"]
+	path = Kolloquium
+	url = git@github.com:ruebe5w/KolloquiumBachelor.git
