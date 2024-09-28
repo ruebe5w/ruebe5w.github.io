@@ -36,10 +36,10 @@
                         </a>
                         <div class="info-post">
                             {%- assign sub_page_tree = sub_page.path | split: "/" -%}
-                            {% if sub_page_tree.size > 2 %}
+                            {% if sub_page_tree.size > 1 %}
                                 <a href="{{ '/' | append: sub_page_tree[1] | prepend: site.baseurl }}" class="category">{{ sub_page_tree[1] }}</a>
                             {% else %}
-                                <span class="category">None</span>
+                                <span class="category">Keine</span>
                             {% endif %}
                             {%- assign posting_date = sub_page.date | date: "%Y-%m-%d" -%}
                             {% if posting_date != "1900-01-01" %}
