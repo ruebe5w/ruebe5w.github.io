@@ -10,11 +10,11 @@ mastodon_username: ruebe5w
 
 
 # External API
-#giscus_repo: "byanko55/jekyll-theme-satellite"
-#giscus_repoId: "R_kgDOJ6fqWg"
-#giscus_category: "Q&A"
-#giscus_categoryId: "DIC_kwDOJ6fqWs4Cc7p7"
-#goatcounter_code: byanko77
+giscus_repo: "ruebe5w/ruebe5w.github.io"
+giscus_repoId: "R_kgDOM4e7VA"
+giscus_category: "Q&A"
+giscus_categoryId: "DIC_kwDOM4e7VM4Ci4GJ"
+goatcounter_code: ruebe5w
 #google_analytics:
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
