@@ -2,7 +2,7 @@
 title: "Über mich"
 tags:
 date: "2024-09-27"
-thumbnail: "/assets/img/thumbnail/sample.png"
+thumbnail: "/assets/img/chris.jpg"
 bookmark: true
 ---
 
